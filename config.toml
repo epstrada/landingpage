@@ -9,7 +9,7 @@ theme = "timer-hugo"
 # Site Params
 [params]
     home = "Pylades IOT Experience"
-    logo = "images/logo"
+    logo = "images/logo.png"
     dateFormat = "6 January 2006"
 
     # Banner Section
