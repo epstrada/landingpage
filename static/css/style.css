@@ -21,7 +21,7 @@ p {
 }
 
 body {
-  background: #FFF ff;
+  background: #068ab6 ff;
 }
 
 ul {
@@ -86,7 +86,7 @@ a:hover {
 
 .social-share a {
   font-size: 20px;
-  color: #FFF ;
+  color: #068ab6 ;
   background: #08ADE4;
   padding: 4px 10px;
   display: inline-block;
@@ -129,13 +129,13 @@ a:hover {
   padding: 120px 0 25px 0;
   position: relative;
   background: #08ADE4;
-  color: #FFF ;
+  color: #068ab6 ;
 }
 
 .global-page-header h2 {
   font-size: 42px;
   font-weight: bold;
-  color: #FFF ;
+  color: #068ab6 ;
   text-transform: uppercase;
 }
 
@@ -147,7 +147,7 @@ a:hover {
 }
 
 .global-page-header .breadcrumb .active, .global-page-header .breadcrumb li a {
-  color: #FFF ;
+  color: #068ab6 ;
 }
 
 .global-page-header .block {
@@ -181,8 +181,8 @@ a:hover {
   position: fixed;
   top: 0;
   width: 100%;
-  background: #FFF ;
-  color: #FFF ;
+  background: #068ab6 ;
+  color: #068ab6 ;
   transition: all 0.2s ease-out 0s;
   padding: 15px 0;
   box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.1);
@@ -192,7 +192,7 @@ a:hover {
 
 .top-bar.animated-header {
   padding: 20px 0;
-  background: #FFF ;
+  background: #068ab6 ;
   box-shadow: none;
 }
 
@@ -204,7 +204,7 @@ a:hover {
 }
 
 .navbar.bg-light {
-  background: #FFF !important;
+  background: #068ab6 !important;
 }
 
 .navbar .nav-item .nav-link {
@@ -249,7 +249,7 @@ a:hover {
 }
 
 .dropdown-item {
-  color: #FFF ;
+  color: #068ab6 ;
   display: block;
   font-size: 14px;
   font-weight: 500;
@@ -324,7 +324,7 @@ a:hover {
 #hero-area .btn {
   background: #414141;
   border: none;
-  color: #FFF ;
+  color: #068ab6 ;
   padding: 20px 35px;
   margin-top: 30px;
   font-size: 16px;
@@ -342,18 +342,18 @@ a:hover {
   padding: 80px 0;
   text-align: center;
   position: relative;
-  color: #FFF ;
+  color: #068ab6 ;
 }
 
 #call-to-action .block {
   position: relative;
   z-index: 9;
-  color: #FFF ;
+  color: #068ab6 ;
 }
 
 #call-to-action .block h2 {
   margin-bottom: 15px;
-  color: #FFF ;
+  color: #068ab6 ;
 }
 
 #call-to-action .block p {
@@ -364,8 +364,8 @@ a:hover {
 }
 
 #call-to-action .block .btn-contact {
-  background: #FFF ;
-  border: 2px solid #FFF ;
+  background: #068ab6 ;
+  border: 2px solid #068ab6 ;
   color: #08ADE4;
   padding: 15px 34px;
   margin-top: 20px;
@@ -381,7 +381,7 @@ a:hover {
 }
 
 #call-to-action .block .btn-contact:hover {
-  color: #FFF ;
+  color: #068ab6 ;
   background: #08ADE4;
 }
 
@@ -412,7 +412,7 @@ a:hover {
 }
 
 .about-feature .block {
-  color: #FFF ;
+  color: #068ab6 ;
   padding: 85px 65px;
   float: left;
 }
@@ -481,11 +481,11 @@ a:hover {
 
 .works .block .img-overly .overly a i {
   font-size: 30px;
-  color: #FFF ;
+  color: #068ab6 ;
 }
 
 figure {
-  background: #FFF ;
+  background: #068ab6 ;
   margin-bottom: 45px;
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.04), 0 2px 10px 0 rgba(0, 0, 0, 0.06);
 }
@@ -527,10 +527,10 @@ figure .overlay {
 
 figure .overlay a {
   display: inline-block;
-  color: #FFF ;
+  color: #068ab6 ;
   padding: 10px 23px;
   line-height: 1;
-  border: 1px solid #FFF ;
+  border: 1px solid #068ab6 ;
   border-radius: 0px;
   margin: 4px;
   transform: scale3d(0, 0, 0);
@@ -611,7 +611,7 @@ figure figcaption p {
 
 #feature .icon {
   text-decoration: none;
-  color: #FFF ;
+  color: #068ab6 ;
   background-color: #08ADE4;
   height: 100px;
   text-align: center;
@@ -624,7 +624,7 @@ figure figcaption p {
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
   -o-border-radius: 50%;
-  text-shadow: #FFF 1px 1px, #FFF 2px 2px, #FFF 3px 3px, #FFF 4px 4px, #FFF 5px 5px, #FFF 6px 6px, #FFF 7px 7px, #FFF 8px 8px, #FFF 9px 9px, #FFF 10px 10px, #FFF 11px 11px, #FFF 12px 12px, #FFF 13px 13px, #FFF 14px 14px, #FFF 15px 15px, #FFF 16px 16px, #FFF 17px 17px, #FFF 18px 18px, #FFF 19px 19px, #FFF 20px 20px, #FFF 21px 21px, #FFF 22px 22px, #FFF 23px 23px, #FFF 24px 24px, #FFF 25px 25px, #FFF 26px 26px, #FFF 27px 27px, #FFF 28px 28px, #FFF 29px 29px, #FFF 30px 30px, #FFF 31px 31px, #FFF 32px 32px, #FFF 33px 33px, #FFF 34px 34px, #FFF 35px 35px, #FFF 36px 36px, #FFF 37px 37px, #FFF 38px 38px, #FFF 39px 39px, #FFF 40px 40px, #FFF 41px 41px, #FFF 42px 42px, #FFF 43px 43px, #FFF 44px 44px, #FFF 45px 45px, #FFF 46px 46px, #FFF 47px 47px, #FFF 48px 48px, #FFF 49px 49px, #FFF 50px 50px, #FFF 51px 51px, #FFF 52px 52px, #FFF 53px 53px, #FFF 54px 54px, #FFF 55px 55px, #FFF 56px 56px, #FFF 57px 57px, #FFF 58px 58px, #FFF 59px 59px, #FFF 60px 60px, #FFF 61px 61px, #FFF 62px 62px, #FFF 63px 63px, #FFF 64px 64px, #FFF 65px 65px, #FFF 66px 66px, #FFF 67px 67px, #FFF 68px 68px, #FFF 69px 69px, #FFF 70px 70px, #FFF 71px 71px, #FFF 72px 72px, #FFF 73px 73px, #FFF 74px 74px, #FFF 75px 75px, #FFF 76px 76px, #FFF 77px 77px, #FFF 78px 78px, #FFF 79px 79px, #FFF 80px 80px, #FFF 81px 81px, #FFF 82px 82px, #FFF 83px 83px, #FFF 84px 84px, #FFF 85px 85px, #FFF 86px 86px, #FFF 87px 87px, #FFF 88px 88px, #FFF 89px 89px, #FFF 90px 90px, #FFF 91px 91px, #FFF 92px 92px, #FFF 93px 93px, #FFF 94px 94px, #FFF 95px 95px, #FFF 96px 96px, #FFF 97px 97px, #FFF 98px 98px, #FFF 99px 99px, #FFF 100px 100px;
+  text-shadow: #068ab6 1px 1px, #068ab6 2px 2px, #068ab6 3px 3px, #068ab6 4px 4px, #068ab6 5px 5px, #068ab6 6px 6px, #068ab6 7px 7px, #068ab6 8px 8px, #068ab6 9px 9px, #068ab6 10px 10px, #068ab6 11px 11px, #068ab6 12px 12px, #068ab6 13px 13px, #068ab6 14px 14px, #068ab6 15px 15px, #068ab6 16px 16px, #068ab6 17px 17px, #068ab6 18px 18px, #068ab6 19px 19px, #068ab6 20px 20px, #068ab6 21px 21px, #068ab6 22px 22px, #068ab6 23px 23px, #068ab6 24px 24px, #068ab6 25px 25px, #068ab6 26px 26px, #068ab6 27px 27px, #068ab6 28px 28px, #068ab6 29px 29px, #068ab6 30px 30px, #068ab6 31px 31px, #068ab6 32px 32px, #068ab6 33px 33px, #068ab6 34px 34px, #068ab6 35px 35px, #068ab6 36px 36px, #068ab6 37px 37px, #068ab6 38px 38px, #068ab6 39px 39px, #068ab6 40px 40px, #068ab6 41px 41px, #068ab6 42px 42px, #068ab6 43px 43px, #068ab6 44px 44px, #068ab6 45px 45px, #068ab6 46px 46px, #068ab6 47px 47px, #068ab6 48px 48px, #068ab6 49px 49px, #068ab6 50px 50px, #068ab6 51px 51px, #068ab6 52px 52px, #068ab6 53px 53px, #068ab6 54px 54px, #068ab6 55px 55px, #068ab6 56px 56px, #068ab6 57px 57px, #068ab6 58px 58px, #068ab6 59px 59px, #068ab6 60px 60px, #068ab6 61px 61px, #068ab6 62px 62px, #068ab6 63px 63px, #068ab6 64px 64px, #068ab6 65px 65px, #068ab6 66px 66px, #068ab6 67px 67px, #068ab6 68px 68px, #068ab6 69px 69px, #068ab6 70px 70px, #068ab6 71px 71px, #068ab6 72px 72px, #068ab6 73px 73px, #068ab6 74px 74px, #068ab6 75px 75px, #068ab6 76px 76px, #068ab6 77px 77px, #068ab6 78px 78px, #068ab6 79px 79px, #068ab6 80px 80px, #068ab6 81px 81px, #068ab6 82px 82px, #068ab6 83px 83px, #068ab6 84px 84px, #068ab6 85px 85px, #068ab6 86px 86px, #068ab6 87px 87px, #068ab6 88px 88px, #068ab6 89px 89px, #068ab6 90px 90px, #068ab6 91px 91px, #068ab6 92px 92px, #068ab6 93px 93px, #068ab6 94px 94px, #068ab6 95px 95px, #068ab6 96px 96px, #068ab6 97px 97px, #068ab6 98px 98px, #068ab6 99px 99px, #068ab6 100px 100px;
 }
 
 .wrapper_404 h1 {
@@ -641,7 +641,7 @@ figure figcaption p {
 .wrapper_404 .btn-home {
   background: #414141;
   border: none;
-  color: #FFF ;
+  color: #068ab6 ;
   padding: 20px 35px;
   margin-top: 10px;
   font-size: 16px;
@@ -694,11 +694,11 @@ article {
   color: #08ADE4;
   padding: 0;
   background: #08ADE4;
-  color: #FFF ;
+  color: #068ab6 ;
   padding: 8px 18px;
   border-radius: 0;
   margin-top: 15px;
-  border: 1px solid #FFF ;
+  border: 1px solid #068ab6 ;
   box-shadow: 0px 0px 0px 1px #08ADE4;
 }
 
@@ -739,7 +739,7 @@ article {
   width: 90px;
   border-radius: 100%;
   margin-top: -40px;
-  border: 3px solid #FFF ;
+  border: 3px solid #068ab6 ;
 }
 
 .sidebar .author .author-bio p {
@@ -812,7 +812,7 @@ article {
 }
 
 #contact-section .contact-form .btn-send {
-  color: #FFF ;
+  color: #068ab6 ;
   outline: none;
   background: #08ADE4;
   transition: all linear .2s;
@@ -826,7 +826,7 @@ article {
   padding: 6px 12px;
   font-size: 13px;
   line-height: 1.428571429;
-  background-color: #FFF ;
+  background-color: #068ab6 ;
   background-image: none;
   border: 1px solid #ccc;
   border-radius: 4px;
@@ -846,7 +846,7 @@ article {
   font-size: 14px;
   line-height: 1.42857143;
   color: #555555;
-  background-color: #FFF ;
+  background-color: #068ab6 ;
   background-image: none;
   border: 1px solid #cccccc;
   box-shadow: none;
@@ -891,7 +891,7 @@ article {
 .success {
   background-color: #6cb670;
   border-radius: 2px;
-  color: #FFF ;
+  color: #068ab6 ;
   font-size: 14px;
   padding: 10px;
 }
@@ -915,7 +915,7 @@ article {
 }
 
 .portfolio-meta span a {
-  color: #FFF ;
+  color: #068ab6 ;
 }
 
 .single-post {
@@ -970,7 +970,7 @@ article {
 
 .single-post .post-comment .btn-send {
   background: #08ADE4;
-  color: #FFF ;
+  color: #068ab6 ;
   border-radius: 0;
 }
 
@@ -1020,7 +1020,7 @@ article {
 }
 
 .btn-work {
-  color: #FFF ;
+  color: #068ab6 ;
   background: #08ADE4;
   border-radius: 0;
 }
@@ -1050,7 +1050,7 @@ article {
 }
 
 #product-showcase-banner .block .buttons .btn {
-  color: #FFF ;
+  color: #068ab6 ;
   border: none;
   padding: 12px 40px;
   transition: .2s all;
@@ -1142,7 +1142,7 @@ article {
 
 #related-items .block {
   position: relative;
-  background: #FFF ;
+  background: #068ab6 ;
   margin-bottom: 45px;
   box-shadow: 0 0px 1px rgba(0, 0, 0, 0.14);
 }
@@ -1190,7 +1190,7 @@ article {
 
 #related-items .block .img-overly .overly a i {
   font-size: 30px;
-  color: #FFF ;
+  color: #068ab6 ;
 }
 
 .service-page .service-parts .block {
@@ -1247,7 +1247,7 @@ article {
 
 .team-member .social-icons a {
   background: #08ADE4;
-  color: #FFF ;
+  color: #068ab6 ;
   padding: 4px 8px;
   display: inline-block;
   font-size: 15px;
@@ -1258,7 +1258,7 @@ article {
 }
 
 #footer {
-  background: #FFF ;
+  background: #068ab6 ;
   padding: 25px 0;
   color: #555;
 }
