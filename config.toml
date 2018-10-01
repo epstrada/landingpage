@@ -1,0 +1,37 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Timer | Responsive Multipurpose Bootstrap Hugo Template"
+theme = "timer-hugo"
+
+# We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
+
+
+# Site Params
+[params]
+    home = "Pylades | Microsoft Gold Partner "
+    logo = "images/logo"
+    dateFormat = "6 January 2006"
+
+    # Banner Section
+    [params.banner]
+        enable  = true
+        bgImage = "images/slider"
+        heading = "Schrijf je in voor de Pylades MSFT Experience"
+        description = "Rondleiding door het nieuwe IOT kantoor van Microsoft en een workshop van Dynamics 365 Field Service gericht op Technisch Dienstverleners"
+        btn     = true
+        btnText = "INSCHRIJVEN"
+        btnURL  = ""
+        [[params.banner.flipText]]
+            title   = "INTERACTIEF"
+        [[params.banner.flipText]]
+            title   = "MODERN WORKPLACE"
+        [[params.banner.flipText]]
+            title   = "DIGITAL TRANSFORMATION"
+
+    # Call to Action
+    [params.cta]
+        enable  = true
+        title   = "WACHT NIET LANGER"
+        content = "Schrijf je hier in"
+        btnText = "Inschrijven"
+        btnURL  = ""
