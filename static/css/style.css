@@ -21,7 +21,7 @@ p {
 }
 
 body {
-  background: #FFF ff;
+  background: #068ab6 ff;
 }
 
 ul {
@@ -86,7 +86,7 @@ a:hover {
 
 .social-share a {
   font-size: 20px;
-  color: #FFF ;
+  color: #068ab6 ;
   background: #08ADE4;
   padding: 4px 10px;
   display: inline-block;
@@ -147,7 +147,7 @@ a:hover {
 }
 
 .global-page-header .breadcrumb .active, .global-page-header .breadcrumb li a {
-  color: #FFF ;
+  color: #068ab6 ;
 }
 
 .global-page-header .block {
@@ -181,8 +181,8 @@ a:hover {
   position: fixed;
   top: 0;
   width: 100%;
-  background: #FFF ;
-  color: #FFF ;
+  background: #068ab6 ;
+  color: #068ab6 ;
   transition: all 0.2s ease-out 0s;
   padding: 15px 0;
   box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.1);
@@ -192,7 +192,7 @@ a:hover {
 
 .top-bar.animated-header {
   padding: 20px 0;
-  background: #FFF ;
+  background: #068ab6 ;
   box-shadow: none;
 }
 
@@ -204,7 +204,7 @@ a:hover {
 }
 
 .navbar.bg-light {
-  background: #FFF !important;
+  background: #068ab6 !important;
 }
 
 .navbar .nav-item .nav-link {
