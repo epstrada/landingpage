@@ -15,7 +15,7 @@ theme = "timer-hugo"
     # Banner Section
     [params.banner]
         enable  = true
-        bgImage = "/static/images/slider.jpg"
+        bgImage = "/images/slider.jpg"
         heading = "Schrijf je in voor de Pylades IOT Experience"
         description = "Rondleiding door het nieuwe kantoor van Microsoft en een workshop van Dynamics 365 Field Service gericht op Technisch Dienstverleners"
         btn     = true
