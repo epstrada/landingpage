@@ -1,6 +1,6 @@
 baseURL = "https://stoic-bell-8b8326.netlify.com"
 languageCode = "en-us"
-title = "Timer | Responsive Multipurpose Bootstrap Hugo Template"
+title = "Pylades IOT Experience"
 theme = "timer-hugo"
 
 # We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
@@ -8,7 +8,7 @@ theme = "timer-hugo"
 
 # Site Params
 [params]
-    home = "Pylades | Microsoft Gold Partner "
+    home = "Pylades IOT Experience"
     logo = "images/logo"
     dateFormat = "6 January 2006"
 
@@ -16,11 +16,11 @@ theme = "timer-hugo"
     [params.banner]
         enable  = true
         bgImage = "images/slider"
-        heading = "Schrijf je in voor de Pylades MSFT Experience"
-        description = "Rondleiding door het nieuwe IOT kantoor van Microsoft en een workshop van Dynamics 365 Field Service gericht op Technisch Dienstverleners"
+        heading = "Schrijf je in voor de Pylades IOT Experience"
+        description = "Rondleiding door het nieuwe kantoor van Microsoft en een workshop van Dynamics 365 Field Service gericht op Technisch Dienstverleners"
         btn     = true
         btnText = "INSCHRIJVEN"
-        btnURL  = ""
+        btnURL  = "https://forms.office.com/Pages/ResponsePage.aspx?id=C7l6RXDQ0EGg974_IsqZZlPpQAwKJnNEjMhakYqqkXRURU5BNlkwUlVKUzA0MFJLNU5CSUtHSkZHUy4u"
         [[params.banner.flipText]]
             title   = "INTERACTIEF"
         [[params.banner.flipText]]
@@ -34,4 +34,4 @@ theme = "timer-hugo"
         title   = "WACHT NIET LANGER"
         content = "Schrijf je hier in"
         btnText = "Inschrijven"
-        btnURL  = ""
+        btnURL  = "https://forms.office.com/Pages/ResponsePage.aspx?id=C7l6RXDQ0EGg974_IsqZZlPpQAwKJnNEjMhakYqqkXRURU5BNlkwUlVKUzA0MFJLNU5CSUtHSkZHUy4u"
