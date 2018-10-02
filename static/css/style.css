@@ -182,7 +182,7 @@ a:hover {
   top: 0;
   width: 100%;
   background: #FFF ;
-  color: #068ab6 ;
+  color: #FFF ;
   transition: all 0.2s ease-out 0s;
   padding: 15px 0;
   box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.1);
@@ -192,7 +192,7 @@ a:hover {
 
 .top-bar.animated-header {
   padding: 20px 0;
-  background: #068ab6 ;
+  background: #FFF ;
   box-shadow: none;
 }
 
