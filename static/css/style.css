@@ -364,7 +364,7 @@ a:hover {
  }
 
 #call-to-action .block .btn-contact {
-  background:#414141 ;
+  background:#FFF ;
   border: 2px solid #068ab6 ;
   color: #FFF;
   padding: 15px 34px;
@@ -381,8 +381,8 @@ a:hover {
 }
 
 #call-to-action .block .btn-contact:hover {
-  color: #D8000C ;
-  background: #414141;
+  color: #414141 ;
+  background: #FFF;
 }
 
 #about {
