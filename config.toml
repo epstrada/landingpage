@@ -17,7 +17,12 @@ theme = "timer-hugo"
         enable  = true
         bgImage = "/images/slider2.jpg"
         heading = "Schrijf je in voor de Pylades IOT Experience"
-        description = "Rondleiding door het nieuwe kantoor van Microsoft en een workshop van Dynamics 365 Field Service gericht op Technisch Dienstverleners"
+        description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed, 
+quasi dolores numquam dolor vero ex, tempora commodi repellendus quod laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed, 
+quasi dolores numquam dolor vero ex, tempora commodi repellendus quod laborum.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed, 
+quasi dolores numquam dolor vero ex, tempora commodi repellendus quod laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed, 
+quasi dolores numquam dolor vero ex, tempora commodi repellendus quod laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed, 
+quasi dolores numquam dolor vero ex, tempora commodi repellendus quod laborum. "
         btn     = true
         btnText = "INSCHRIJVEN"
         btnURL  = "https://forms.office.com/Pages/ResponsePage.aspx?id=C7l6RXDQ0EGg974_IsqZZlPpQAwKJnNEjMhakYqqkXRURU5BNlkwUlVKUzA0MFJLNU5CSUtHSkZHUy4u"
