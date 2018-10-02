@@ -348,7 +348,7 @@ a:hover {
 #call-to-action .block {
   position: relative;
   z-index: 9;
-  color: #FFF ;
+  color:#414141 ;
 }
 
 #call-to-action .block h2 {
@@ -361,8 +361,7 @@ a:hover {
   font-weight: 300;
   font-family: 'Roboto', sans-serif;
   margin-top: 20px;
-  color: #414141 
-}
+ }
 
 #call-to-action .block .btn-contact {
   background:#414141 ;
