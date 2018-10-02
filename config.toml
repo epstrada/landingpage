@@ -17,7 +17,7 @@ theme = "timer-hugo"
         enable  = true
         bgImage = "/images/slider2.jpg"
         heading = "Meld u aan voor de Pylades Connect Field Service Experience"
-        description = "quasi dolores numquam dolor vero ex, tempora commodi repellendus quod laborum. blablablablablablablablablablblalbalblablalbalbalalblablalbalbalblablalbalbalblablablalbalbalblablablablalbalbalbalbalalbalblabla"
+        description = "23 november 2018 @ Microsoft kantoor te Schiphol"
         btn     = true
         btnText = "AANMELDEN"
         btnURL  = "https://forms.office.com/Pages/ResponsePage.aspx?id=C7l6RXDQ0EGg974_IsqZZlPpQAwKJnNEjMhakYqqkXRURU5BNlkwUlVKUzA0MFJLNU5CSUtHSkZHUy4u"
