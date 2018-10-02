@@ -336,13 +336,13 @@ a:hover {
 }
 
 #call-to-action {
-  background: #FFF;
+  background: #068ab6;
   background-size: cover;
   background-attachment: fixed;
   padding: 80px 0;
   text-align: center;
   position: relative;
-  color: #068ab6 ;
+  color:  #414141;
 }
 
 #call-to-action .block {
@@ -353,7 +353,7 @@ a:hover {
 
 #call-to-action .block h2 {
   margin-bottom: 15px;
-  color: #068ab6 ;
+  color: #FFF ;
 }
 
 #call-to-action .block p {
@@ -381,7 +381,7 @@ a:hover {
 }
 
 #call-to-action .block .btn-contact:hover {
-  color: #068ab6 ;
+  color: #D8000C ;
   background: #414141;
 }
 
