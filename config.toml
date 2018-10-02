@@ -15,7 +15,7 @@ theme = "timer-hugo"
     # Banner Section
     [params.banner]
         enable  = true
-        bgImage = "/images/slider.jpg"
+        bgImage = "/images/slider2.jpg"
         heading = "Schrijf je in voor de Pylades IOT Experience"
         description = "Rondleiding door het nieuwe kantoor van Microsoft en een workshop van Dynamics 365 Field Service gericht op Technisch Dienstverleners"
         btn     = true
@@ -24,11 +24,11 @@ theme = "timer-hugo"
         [[params.banner.flipText]]
             title   = "Smart Industry"
         [[params.banner.flipText]]
-            title   = "Digital Field Service"
+            title   = "Pro Active Field Service"
         [[params.banner.flipText]]
             title   = "Microsoft Dynamics 365"
         [[params.banner.flipText]]
-            title   = "Predictive IOT"
+            title   = "Predictive IoT"
 
     # Call to Action
     [params.cta]
