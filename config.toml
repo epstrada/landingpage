@@ -19,7 +19,7 @@ theme = "timer-hugo"
         heading = "Meld u aan voor de Pylades Connect Field Service Experience"
         description = "quasi dolores numquam dolor vero ex, tempora commodi repellendus quod laborum."
         btn     = true
-        btnText = "INSCHRIJVEN"
+        btnText = "AANMELDEN"
         btnURL  = "https://forms.office.com/Pages/ResponsePage.aspx?id=C7l6RXDQ0EGg974_IsqZZlPpQAwKJnNEjMhakYqqkXRURU5BNlkwUlVKUzA0MFJLNU5CSUtHSkZHUy4u"
         [[params.banner.flipText]]
             title   = "Smart Industry"
@@ -34,6 +34,6 @@ theme = "timer-hugo"
     [params.cta]
         enable  = true
         title   = "WACHT NIET LANGER"
-        content = "Schrijf je hier in"
-        btnText = "Inschrijven"
+        content = "Meld u hier aan"
+        btnText = "AANMELDEN"
         btnURL  = "https://forms.office.com/Pages/ResponsePage.aspx?id=C7l6RXDQ0EGg974_IsqZZlPpQAwKJnNEjMhakYqqkXRURU5BNlkwUlVKUzA0MFJLNU5CSUtHSkZHUy4u"
