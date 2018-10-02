@@ -16,8 +16,8 @@ theme = "timer-hugo"
     [params.banner]
         enable  = true
         bgImage = "/images/slider2.jpg"
-        heading = "Meld u aan voor de Pylades Connect Field Service Experience"
-        description = "23 november 2018 @ Microsoft kantoor te Schiphol"
+        heading = "Pylades Connected Field Service Experience in samenwerking met Microsoft"
+        description = "Meld u vandaag nog aan! 23 november 2018 @ Microsoft kantoor te Schiphol"
         btn     = true
         btnText = "AANMELDEN"
         btnURL  = "https://forms.office.com/Pages/ResponsePage.aspx?id=C7l6RXDQ0EGg974_IsqZZlPpQAwKJnNEjMhakYqqkXRURU5BNlkwUlVKUzA0MFJLNU5CSUtHSkZHUy4u"
