@@ -22,11 +22,13 @@ theme = "timer-hugo"
         btnText = "INSCHRIJVEN"
         btnURL  = "https://forms.office.com/Pages/ResponsePage.aspx?id=C7l6RXDQ0EGg974_IsqZZlPpQAwKJnNEjMhakYqqkXRURU5BNlkwUlVKUzA0MFJLNU5CSUtHSkZHUy4u"
         [[params.banner.flipText]]
-            title   = "INTERACTIEF"
+            title   = "Smart Industry"
         [[params.banner.flipText]]
-            title   = "MODERN WORKPLACE"
+            title   = "Digital Field Service"
         [[params.banner.flipText]]
-            title   = "DIGITAL TRANSFORMATION"
+            title   = "Microsoft Dynamics 365"
+        [[params.banner.flipText]]
+            title   = "Predictive IOT"
 
     # Call to Action
     [params.cta]
