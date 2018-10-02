@@ -16,13 +16,8 @@ theme = "timer-hugo"
     [params.banner]
         enable  = true
         bgImage = "/images/slider2.jpg"
-        heading = "Schrijf je in voor de Pylades IOT Experience"
-        description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed, 
-quasi dolores numquam dolor vero ex, tempora commodi repellendus quod laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed, 
-quasi dolores numquam dolor vero ex, tempora commodi repellendus quod laborum.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed, 
-quasi dolores numquam dolor vero ex, tempora commodi repellendus quod laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed, 
-quasi dolores numquam dolor vero ex, tempora commodi repellendus quod laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed, 
-quasi dolores numquam dolor vero ex, tempora commodi repellendus quod laborum. "
+        heading = "Meld u aan voor de Pylades Connect Field Service Experience"
+        description = "quasi dolores numquam dolor vero ex, tempora commodi repellendus quod laborum."
         btn     = true
         btnText = "INSCHRIJVEN"
         btnURL  = "https://forms.office.com/Pages/ResponsePage.aspx?id=C7l6RXDQ0EGg974_IsqZZlPpQAwKJnNEjMhakYqqkXRURU5BNlkwUlVKUzA0MFJLNU5CSUtHSkZHUy4u"
