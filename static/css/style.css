@@ -324,7 +324,7 @@ a:hover {
 #hero-area .btn {
   background: #414141;
   border: none;
-  color: #068ab6 ;
+  color: #FFF ;
   padding: 20px 35px;
   margin-top: 30px;
   font-size: 16px;
@@ -336,7 +336,7 @@ a:hover {
 }
 
 #call-to-action {
-  background: #08ADE4;
+  background: #FFF;
   background-size: cover;
   background-attachment: fixed;
   padding: 80px 0;
