@@ -1,6 +1,6 @@
 baseURL = "https://stoic-bell-8b8326.netlify.com"
 languageCode = "en-us"
-title = "Pylades IOT Experience"
+title = "IoT Field Service Event"
 theme = "timer-hugo"
 
 # We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
