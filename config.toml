@@ -7,15 +7,31 @@ theme = "timer-hugo"
 
 # Site Menus
 [menu]
-[menu.nav]
-        name    = "Aanmelden"
+    # Navbar Menus
+   # [[menu.nav]]
+    #    name    = "About"
+     #   url     = "/about"
+      #  weight  = 2
+    #[[menu.nav]]
+        name    = "Service"
+        url     = "/service"
+        weight  = 3
+    #[[menu.nav]]
+        name    = "Gallery"
+        url     = "/gallery"
+        weight  = 4
+    #[[menu.nav]]
+        name    = "Blog"
+        url     = "/blog"
+        weight  = 5
+    [[menu.nav]]
+        name    = "Contact"
         url     = "/contact"
-
-weight = 1
+        weight  = 6
 
 # Site Params
 [params]
-    home = "Pylades IOT Experience"
+    home = "Home"
     logo = "images/logo.png"
     dateFormat = "6 January 2006"
 
