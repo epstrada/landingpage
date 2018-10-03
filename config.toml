@@ -30,9 +30,9 @@ theme = "timer-hugo"
         weight  = 6
 
 # Site Params
-# [params]
+[params]
     home = "Home"
-    logo = "/static/images/logo.png"
+    logo = "/images/logo.png"
     dateFormat = "6 January 2006"
 
     # Banner Section
