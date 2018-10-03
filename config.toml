@@ -7,11 +7,11 @@ theme = "timer-hugo"
 
 # Site Menus
 [menu]
-    # Navbar Menus
-   # [[menu.nav]]
-    #    name    = "About"
-     #   url     = "/about"
-      #  weight  = 2
+    Navbar Menus
+   [[menu.nav]]
+     name    = "About"
+      url     = "/about"
+       weight  = 2
     #[[menu.nav]]
         name    = "Service"
         url     = "/service"
