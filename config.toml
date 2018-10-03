@@ -5,10 +5,10 @@ theme = "timer-hugo"
 
 # We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
 
-    [[menu.nav]]
+[menu.nav]
         name    = "Aanmelden"
         url     = "/contact"
-        
+
 weight = 1
 
 # Site Params
