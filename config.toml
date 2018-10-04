@@ -6,7 +6,7 @@ theme = "timer-hugo"
 # We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
 
 # Site Menus
-[menu]
+#[menu]
     
    [[menu.nav]]
        name    = "About"
