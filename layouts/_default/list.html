@@ -1,8 +1,6 @@
 {{ partial "header.html" . }}
 
-{{ partial "page-title.html" . }}
-
- {{ if .Site.Data.contact.enable }}
+{{ if .Site.Data.contact.enable }}
 {{ "<!-- Contact Section Start -->" | safeHTML }}
 <section id="contact-section">
     <div class="container">
