@@ -814,7 +814,7 @@ article {
 #contact-section .contact-form .btn-send {
   color: #068ab6 ;
   outline: none;
-  background: #08ADE4;
+  background: #FFF;
   transition: all linear .2s;
   border-color: #08ADE4;
   border-radius: 0;
@@ -826,7 +826,7 @@ article {
   padding: 6px 12px;
   font-size: 13px;
   line-height: 1.428571429;
-  background-color: #068ab6 ;
+  background-color: #FFF ;
   background-image: none;
   border: 1px solid #ccc;
   border-radius: 4px;
@@ -846,7 +846,7 @@ article {
   font-size: 14px;
   line-height: 1.42857143;
   color: #555555;
-  background-color: #068ab6 ;
+  background-color: #FFF ;
   background-image: none;
   border: 1px solid #cccccc;
   box-shadow: none;
