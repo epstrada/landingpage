@@ -1,12 +1,9 @@
-name = "Timer Hugo"
+name = ""
 license = "CC BY 3.0"
 licenselink = "https://creativecommons.org/licenses/by/3.0/"
-description = "Hugo port of the Themefisher’s Navigator Template"
-homepage = "http://demo.themefisher.com/themefisher/timer/"
+description = ""
+homepage = """
 tags = ['landing-page']
 features = ['bootstrap','responsive']
 min_version = "0.42"
 
-[author]
-  name = "Themefisher"
-  homepage = "https://themefisher.com/"
