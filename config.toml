@@ -31,10 +31,17 @@ theme = "timer-hugo"
         [[params.banner.flipText]]
             title   = "Predictive IoT"
 
+ # Homepage About Section
+    [params.about]
+        enable  = true
+        title   = "ABOUT THIS EVENT"
+        content = "BlaBlaBlaBlaBla"
+        image   = "images/about/about.jpg"
+
     # Call to Action
     [params.cta]
         enable  = true
-        title   = "WACHT NIET LANGER"
-        content = "Meld u hier aan"
-        btnText = "AANMELDEN"
-        btnURL  = "/contact"
+        title   = "Nog niet overtuigd?"
+        content = "Download meer informatie en blijf op de hoogte of bel ons voor een gratis consult"
+        btnText = "BEL DAN!"
+        btnURL  = ""
