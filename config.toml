@@ -29,7 +29,7 @@ theme = "timer-hugo"
         [[params.banner.flipText]]
             title   = "Microsoft Dynamics 365"
         [[params.banner.flipText]]
-            title   = "Predictive IoT"
+            title   = "Heinwillem is cool"
 
     # Call to Action
     [params.cta]
