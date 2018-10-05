@@ -1,13 +1,13 @@
 enable  : true
-contactFormTitle    : CONTACT WITH ME
+contactFormTitle    : Aanmelden
 contactFormSubtitle : >
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore, ea! consectetur adipisicing elit. Dolore, ea!
-mapTitle    : FIND US
+  U ontvangt een bevestiging van uw aanmelding per mail
+mapTitle    : LOCATIE
 mapSubtitle : >
-  Si aute quis eu proident o cupidatat ne anim nescius, et est praesentibus, o quorum vidisse expetendis, nostrud eram quibusdam ad nam nostrud ubi.
-officeAddress1 : 125, Kings Street, Melbourne United Kingdom,600562
-officeAddress2 : 925, Lab Street, San Fransisco, United State 90278
-mail1 : support@timer.com
-mail2 : info@timer.com
-phone1: +07 052 245 022
-phone2: +07 052 245 025 
+  locatie nieuwe kantoor microsoft
+officeAddress1 : Microsoft Nederland 1234AB Schiphol, Nederland
+officeAddress2 : Pylades | Microsoft Gold Partner | Anna Hortsinkstraat 1 1234BB Weesp
+mail1 : marketing@pylades.com
+mail2 : info@pylades.com
+phone1: +31 1234 5678 9
+phone2: +31 1234 5678 9
