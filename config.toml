@@ -35,8 +35,8 @@ theme = "timer-hugo"
     [params.about]
         enable  = true
         title   = "ABOUT THIS EVENT"
-        content = "BlaBlaBlaBlaBla"
-        image   = "images/about/about.jpg"
+        content = "BlaBlaBlaBlaBla BLAAAAAAAA FIELD SERVICE SHIZZLE"
+        image   = "images/about/Innovate-With-Proactive_767x367.png"
 
     # Call to Action
     [params.cta]
