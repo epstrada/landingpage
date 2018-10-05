@@ -1,15 +1,15 @@
 enable  : true
-title   : Offer From Me
+title   : Waarom u het event niet mag missen
 subtitle: >
   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed, <br> quasi dolores numquam dolor vero ex, tempora commodi      repellendus quod laborum.
 item    :
   - icon  : ion-ios-flask-outline
-    title : Media heading
+    title : Selling Point 1
     description : >
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
 
   - icon  : ion-ios-lightbulb-outline
-    title : Well documented.
+    title : Selling Point 2
     description : >
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
 
