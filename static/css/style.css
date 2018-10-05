@@ -181,9 +181,9 @@ a:hover {
   position: fixed;
   top: 0;
   width: 100%;
-  background: #08ADE4 ;
-  color: #FFF ;
-  transition: all 0.2s ease-out 0s;
+  background: #FFF ;
+  color: #08ADE4 ;
+  transition: all 0.3s ease-out 0s;
   padding: 15px 0;
   box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.1);
   border-bottom: 1px solid #dedede;
