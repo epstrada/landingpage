@@ -1,7 +1,7 @@
 name = ""
 license = "CC BY 3.0"
 licenselink = "https://creativecommons.org/licenses/by/3.0/"
-description = ""
+description = "Connected Field Service Event"
 homepage = """
 tags = ['landing-page']
 features = ['bootstrap','responsive']

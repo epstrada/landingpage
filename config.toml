@@ -17,7 +17,7 @@ theme = "timer-hugo"
     [params.banner]
         enable  = true
         bgImage = "/images/slider2.jpg"
-        heading = "Pylades Connected Field Service Experience"
+        heading = "Connected Field Service"
         description = "Meld u vandaag nog aan DIT IS EEN TEST"
         btn     = true
         btnText = "AANMELDEN"
@@ -30,6 +30,18 @@ theme = "timer-hugo"
             title   = "Dynamics 365"
         [[params.banner.flipText]]
             title   = "Predictive IoT"
+
+# Site Menus
+[menu]
+    # Navbar Menus
+    [[menu.nav]]
+        name    = "Over Dynamics 365 Field Service"
+        url     = "/about"
+        weight  = 2
+    [[menu.nav]]
+        name    = "Contact"
+        url     = "/contact"
+        weight  = 6
 
  # Homepage About Section
     [params.about]
