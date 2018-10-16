@@ -8,11 +8,12 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6">
-                <div class="block">
+                <div class="map-area">
                     {{ with .Site.Data.contact.contactFormTitle }}<h2 class="subtitle wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".3s">{{ . }}</h2>{{ end }}
                     {{ with .Site.Data.contact.contactFormSubtitle }}<p class="subtitle-des wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".5s">{{ . }}</p>{{ end }}
-                    <div class="contact-form">
-                        <iframe width="640px" height= "480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=C7l6RXDQ0EGg974_IsqZZlPpQAwKJnNEjMhakYqqkXRURU5BNlkwUlVKUzA0MFJLNU5CSUtHSkZHUy4u&embed=true" frameborder= "0" marginwidth= "0" marginheight= "0" style= "border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+                    <div class="map">
+                        <iframe src="https://forms.office.com/Pages/ResponsePage.aspx?id=C7l6RXDQ0EGg974_IsqZZlPpQAwKJnNEjMhakYqqkXRURU5BNlkwUlVKUzA0MFJLNU5CSUtHSkZHUy4u&embed=true" 
+                        width="100%" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>
                     </div>
                 </div>
             </div>
@@ -61,7 +62,5 @@
 {{ end }}
 
 {{ partial "cta.html" . }}
-
-{{ partial "iframe.html"}}
 
 {{ partial "footer.html" . }}
