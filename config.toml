@@ -35,11 +35,11 @@ theme = "timer-hugo"
 [menu]
     # Navbar Menus
     [[menu.nav]]
-        name    = "Over Dynamics 365 Field Service"
-        url     = "/about"
+        name    = ""
+        url     = ""
         weight  = 2
     [[menu.nav]]
-        name    = "Contact"
+        name    = "Aanmelden"
         url     = "/contact"
         weight  = 6
 
