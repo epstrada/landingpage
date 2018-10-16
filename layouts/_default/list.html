@@ -12,14 +12,17 @@
                     {{ with .Site.Data.contact.contactFormTitle }}<h2 class="subtitle wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".3s">{{ . }}</h2>{{ end }}
                     {{ with .Site.Data.contact.contactFormSubtitle }}<p class="subtitle-des wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".5s">{{ . }}</p>{{ end }}
                     <div class="contact-form">
-                        <form id="contact-form" method="#" action="#" role="form" name="contact" netlify>
+                        <form id="contact-form" method="POST" action="#" role="form" name="Lead-Form" netlify>
 
                             <div class="form-group wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".6s">
-                                <input type="text" placeholder="Your Name YO" class="form-control" name="name" id="name">
+                                <input type="text" placeholder="Voornaam" class="form-control" name="name" id="name">
+                            </div>
+                            <div class="form-group wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".6s">
+                                <input type="text" placeholder="Achternaam" class="form-control" name="name" id="name">
                             </div>
 
                             <div class="form-group wow fadeInDown" data-wow-duration="500ms" data-wow-delay=".8s">
-                                <input type="email" placeholder="Your Email" class="form-control" name="email" id="email">
+                                <input type="email" placeholder="Email" class="form-control" name="email" id="email">
                             </div>
 
                             <div class="form-group wow fadeInDown" data-wow-duration="500ms" data-wow-delay="1s">
@@ -31,15 +34,15 @@
                             </div>
 
                             <div id="success" class="success">
-                                Thank you. The Mailman is on His Way :)
+                                Bedankt voor uw aanmelding! U ontvangt een bevestigingsemail met daarin de factsheet!
                             </div>
 
                             <div id="error" class="error">
-                                Sorry, don't know what happened. Try later :(
+                              Foutmelding. Probeer het later opnieuw!
                             </div>
 
                             <div id="submit" class="wow fadeInDown" data-wow-duration="500ms" data-wow-delay="1.4s">
-                                <button type="submit" id="contact-submit" class="btn btn-default btn-send hvr-bounce-to-right" value="Send Message">Send Message</button>
+                                <button type="submit" id="contact-submit" class="btn btn-default btn-send hvr-bounce-to-right" value="Aanmelden">Aanmelden</button>
                             </div>
                         </form>
                     </div>
