@@ -17,19 +17,19 @@ theme = "timer-hugo"
     [params.banner]
         enable  = true
         bgImage = "/images/slider2.jpg"
-        heading = "Connected Field Service"
-        description = "Meld u vandaag nog aan DIT IS EEN TEST"
+        heading = "Showcase Connected Field Service Executive Event"
+        description = "Meld u vandaag aan"
         btn     = true
         btnText = "AANMELDEN"
         btnURL  = "/contact"
         [[params.banner.flipText]]
-            title   = "Smart Industry"
+            title   = "Inspirerend"
         [[params.banner.flipText]]
-            title   = "Pro Active Field Service"
+            title   = "Educatief"
         [[params.banner.flipText]]
-            title   = "Dynamics 365"
+            title   = "Netwerken"
         [[params.banner.flipText]]
-            title   = "Predictive IoT"
+            title   = "Workshop"
 
 # Site Menus
 [menu]
@@ -46,14 +46,14 @@ theme = "timer-hugo"
  # Homepage About Section
     [params.about]
         enable  = true
-        title   = "ABOUT THIS EVENT"
-        content = "BlaBlaBlaBlaBla BLAAAAAAAA FIELD SERVICE SHIZZLE"
+        title   = "Het Pylades en Microsoft Field Service Event"
+        content = "Showcase toekomst van Field Service, A.I en IoT"
         image   = "images/about/Innovate-With-Proactive_767x367.png"
 
     # Call to Action
     [params.cta]
         enable  = true
-        title   = "Nog niet overtuigd?"
-        content = "Download meer informatie en blijf op de hoogte of bel ons voor een afspraak"
-        btnText = "BEL DAN!"
+        title   = "Meld u aan en ontvang de gratis Field Service Factsheet"
+        content = "Download Nu"
+        btnText = "Download"
         btnURL  = "/contact"
