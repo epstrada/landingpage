@@ -1,6 +1,6 @@
 baseURL = "https://stoic-bell-8b8326.netlify.com"
 languageCode = "en-us"
-title = "IoT Field Service Event"
+title = "Connected Field Service Executive Event"
 theme = "timer-hugo"
 
 # We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
@@ -17,8 +17,8 @@ theme = "timer-hugo"
     [params.banner]
         enable  = true
         bgImage = "/images/slider2.jpg"
-        heading = "Showcase Connected Field Service Executive Event"
-        description = "Meld u vandaag aan"
+        heading = " Connected Field Service Executive Event"
+        description = "Een inspirerend, interactief event op locatie voor Technisch Dienstverleners"
         btn     = true
         btnText = "AANMELDEN"
         btnURL  = "/contact"
