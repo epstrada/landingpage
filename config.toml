@@ -25,11 +25,11 @@ theme = "timer-hugo"
         [[params.banner.flipText]]
             title   = "Inspirerend"
         [[params.banner.flipText]]
+            title   = "Interactief"
+        [[params.banner.flipText]]
             title   = "Educatief"
         [[params.banner.flipText]]
             title   = "Netwerken"
-        [[params.banner.flipText]]
-            title   = "Workshop"
 
 # Site Menus
 [menu]
