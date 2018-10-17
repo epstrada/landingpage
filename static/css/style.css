@@ -150,7 +150,7 @@ a:hover {
   color: #FFF ;
 }
 
-.global-page-header .block {
+#.global-page-header .block {
   position: relative;
   z-index: 9;
   text-align: center;
