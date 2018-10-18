@@ -21,7 +21,7 @@ theme = "timer-hugo"
         description = "Een inspirerend, interactief event op locatie voor Technisch Dienstverleners"
         btn     = true
         btnText = "AANMELDEN"
-        btnURL  = "/aanmelden"
+        btnURL  = "/contact"
         [[params.banner.flipText]]
             title   = "Inspirerend"
         [[params.banner.flipText]]
@@ -33,11 +33,6 @@ theme = "timer-hugo"
 
 # Site Menus
 [menu]
-    # Navbar Menus
-    [[menu.nav]]
-        name    = "Aanmelden"
-        url     = "/aanmelden"
-        weight  = 6
 
  # Homepage About Section
     [params.about]
