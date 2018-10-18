@@ -57,3 +57,6 @@ theme = "timer-hugo"
         content = "Download Nu"
         btnText = "Download"
         btnURL  = "/contact"
+    #Parans. Service
+     [params.service]
+        enable = true
