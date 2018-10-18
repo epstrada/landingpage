@@ -1,5 +1,5 @@
 baseURL = "https://stoic-bell-8b8326.netlify.com"
-languageCode = "en-us"
+languageCode = "nl"
 title = "Connected Field Service Executive Event"
 theme = "timer-hugo"
 
@@ -17,7 +17,7 @@ theme = "timer-hugo"
     [params.banner]
         enable  = true
         bgImage = "/images/slider2.jpg"
-        heading = " Connected Field Service Executive Event"
+        heading = "Connected Field Service Executive Event"
         description = "Een inspirerend, interactief event op locatie voor Technisch Dienstverleners"
         btn     = true
         btnText = "AANMELDEN"
@@ -32,7 +32,6 @@ theme = "timer-hugo"
             title   = "Netwerken"
 
 # Site Menus
-[menu]
 
  # Homepage About Section
     [params.about]
@@ -45,7 +44,7 @@ theme = "timer-hugo"
     [params.cta]
         enable  = true
         title   = "Meld u aan en ontvang de gratis Field Service Factsheet"
-        content = "Download Nu"
-        btnText = "Download"
+        content = "Aanmelden"
+        btnText = "Aanmelden"
         btnURL  = "/contact"
 
