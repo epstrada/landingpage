@@ -35,10 +35,6 @@ theme = "timer-hugo"
 [menu]
     # Navbar Menus
     [[menu.nav]]
-        name    = ""
-        url     = ""
-        weight  = 2
-    [[menu.nav]]
         name    = "Aanmelden"
         url     = "/aanmelden"
         weight  = 6
