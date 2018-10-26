@@ -40,17 +40,11 @@ theme = "timer-hugo"
         content = "Pylades organiseert in samenwerking met Microsoft op dinsdag 29 januari 2019 een rondleiding en interactieve Need To Know Sessie in het splinternieuwe, IoT enabled Microsoft kantoor te Schiphol"
         image   = ""
         
-    [params.about]
-        enable  = true
-        title   = "Meer informatie"
-        content = "bla bla"
-        image   = ""
-
-    # Call to Action
+ # Call to Action
     [params.cta]
         enable  = true
         title   = "Meld u aan om kans te maken op deelname"
-        content = "E onntvang de factsheet Field Service gratis in uw inbox"
+        content = "En ontvang de factsheet Field Service gratis in uw inbox"
         btnText = "Aanmelden"
         btnURL  = "/contact"
 
