@@ -18,7 +18,7 @@ theme = "timer-hugo"
         enable  = true
         bgImage = "/images/slider2.jpg"
         heading = "Field Service Executive Event"
-        description = "Een inspirerend event op locatie voor moderne Technisch Dienstverleners"
+        description = "Een inspirerend event op locatie voor toekomstgerichte Technisch Dienstverleners"
         btn     = true
         btnText = "AANMELDEN"
         btnURL  = "/contact"
@@ -29,7 +29,7 @@ theme = "timer-hugo"
         [[params.banner.flipText]]
             title   = "Educatief"
         [[params.banner.flipText]]
-            title   = ""
+            title   = "Exclusief"
 
 # Site Menus
 
@@ -44,7 +44,7 @@ theme = "timer-hugo"
     # Call to Action
     [params.cta]
         enable  = true
-        title   = "Meld u aan en ontvang de gratis Field Service Factsheet"
+        title   = "Meld u aan om in kans te maken op deelname"
         content = "Aanmelden"
         btnText = "Aanmelden"
         btnURL  = "/contact"
