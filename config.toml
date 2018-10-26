@@ -16,7 +16,7 @@ theme = "timer-hugo"
     # Banner Section
     [params.banner]
         enable  = true
-        bgImage = "/images/background2.jpg"
+        bgImage = "/images/background3.jpeg"
         heading = "Pylades Field Service Executive Event"
         description = "Een inspirerend event voor toekomstgerichte, innovatieve Technisch Dienstverleners in het geheel vernieuwde, hypermoderne en IoT enabled Microsoft kantoor te Schiphol"
         btn     = true
