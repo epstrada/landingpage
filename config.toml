@@ -38,7 +38,7 @@ theme = "timer-hugo"
         enable  = true
         title   = "Pylades Connected Field Service Executive Event."
         content = "De opzet van dit exclusieve event is gebaseerd op de principes voor een “executive round table”. Dit houdt in dat er maximaal 20 plaatsen beschikbaar zijn. Hierdoor is veel interactie mogelijk met de sprekers en de deelnemers onderling. De ervaring leert dat het netwerken en het delen van best-pratices van grote toegevoegde waarde is. U zult geïnspireerd worden door de visie van Microsoft op uw branche en wij zullen u live demonstreren welke slimme oplossingen u vandaag al kunt inzetten voor meer succes. Verder is er boeiende groepsdiscussie én u krijgt een rondleiding in het verrassend vernieuwde pand van Microsoft op Schiphol."
-        image   = "/images/Innovate-With-Proactive_767x367.png"
+        image   = "/images/about/Innovate-With-Proactive_767x367.png"
         
  # Call to Action
     [params.cta]
