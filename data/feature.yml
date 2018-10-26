@@ -9,19 +9,19 @@ item    :
       We geven u een prachtige rondleiding door het hypermoderne, IoT kantoor van Microsoft
 
   - icon  : ion-ios-lightbulb-outline
-    title : Keynote van Maarten Meijl
+    title : Keynote van een bekende spreker
     description : >
-      Een inspirerende keynote van Maarten Meijl, IoT expert bij Pylades
+      Een inspirerende keynote van een bekende spreker
 
   - icon  : ion-ios-americanfootball-outline
-    title : Luxe Executive Netwerk Lunch
+    title : Executive Netwerk Lunch
     description : >
-      Netwerk met andere executives uit het veld en ontdek de mogelijkheden van Field Service Software voor uw bedrijf
+      Netwerk met andere executives en ontdek de mogelijkheden van Field Service Software
 
   - icon  : ion-ios-keypad-outline
-    title : Round Table discussie
+    title : Round Table Discussie
     description : >
-      Ga het gesprek aan tijdens de round table en ontdek waar de sector naar toe gaat
+      Ga het gesprek aan met andere Technisch Dienstverleners tijdens de round table
 
   - icon  : ion-ios-barcode-outline
     title : Pylades Vertical Suite voor Technisch Dienstverleners
@@ -31,4 +31,4 @@ item    :
   - icon  : ion-ios-lightbulb-outline
     title : Presentatie Jan Brouwer van Microsoft
     description : >
-      Jan Brouwer van Microsoft licht toe hoe klanten succesvol worden met Dynamics 365 Field Service oplossingen.
+      Jan Brouwer van Microsoft licht toe hoe klanten succesvol worden met Dynamics 365 Field Service
