@@ -47,4 +47,3 @@ theme = "timer-hugo"
         content = "En ontvang de factsheet Field Service gratis in uw inbox"
         btnText = "Aanmelden"
         btnURL  = "/contact"
-
