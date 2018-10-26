@@ -1,6 +1,6 @@
 baseURL = "https://fieldservice.digital"
 languageCode = "nl"
-title = "Connected Field Service Executive Event"
+title = "Pylades Connected Field Service Executive Event"
 theme = "timer-hugo"
 
 # We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
@@ -17,8 +17,8 @@ theme = "timer-hugo"
     [params.banner]
         enable  = true
         bgImage = "/images/slider2.jpg"
-        heading = "Field Service Executive Event"
-        description = "Een inspirerend event op locatie voor toekomstgerichte Technisch Dienstverleners"
+        heading = "Pylades Field Service Executive Event"
+        description = "Een inspirerend event voor toekomstgerichte, innovatieve Technisch Dienstverleners"
         btn     = true
         btnText = "AANMELDEN"
         btnURL  = "/contact"
@@ -36,15 +36,15 @@ theme = "timer-hugo"
  # Homepage About Section
     [params.about]
         enable  = true
-        title   = "Het Pylades en Microsoft Field Service Event"
-        content = "Showcase toekomst van Field Service, A.I en IoT Showcase toekomst van Field Service, A.I en IoT Showcase toekomst van Field Service, A.I en IoT Showcase toekomst van Field Service, A.I en IoT Showcase toekomst van Field Service, A.I en IoT"
+        title   = "Pylades Connected Field Service Executive Event"
+        content = "Pylades organiseert in samenwerking met Microsoft een rondleiding en interactieve Need To Know Sessie in het splinternieuwe, IoT enabled Microsoft kantoor te Schiphol"
         image   = "images/about/Innovate-With-Proactive_767x367.png"
 
 
     # Call to Action
     [params.cta]
         enable  = true
-        title   = "Meld u aan om in kans te maken op deelname"
+        title   = "Meld u aan om kans te maken op deelname aan dit event"
         content = "Aanmelden"
         btnText = "Aanmelden"
         btnURL  = "/contact"
