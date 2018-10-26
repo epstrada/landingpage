@@ -37,14 +37,14 @@ theme = "timer-hugo"
     [params.about]
         enable  = true
         title   = "Pylades Connected Field Service Executive Event"
-        content = "Pylades organiseert in samenwerking met Microsoft een rondleiding en interactieve Need To Know Sessie in het splinternieuwe, IoT enabled Microsoft kantoor te Schiphol"
+        content = "Pylades organiseert in samenwerking met Microsoft op dinsdag 29 januari 2019 een rondleiding en interactieve Need To Know Sessie in het splinternieuwe, IoT enabled Microsoft kantoor te Schiphol"
         image   = "images/about/Innovate-With-Proactive_767x367.png"
 
 
     # Call to Action
     [params.cta]
         enable  = true
-        title   = "Meld u aan om kans te maken op deelname aan dit event"
+        title   = "Meld u aan om kans te maken op deelname aan dit event en de gratis Factsheet te ontvangen"
         content = "Aanmelden"
         btnText = "Aanmelden"
         btnURL  = "/contact"
