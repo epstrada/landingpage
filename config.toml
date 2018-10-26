@@ -37,13 +37,9 @@ theme = "timer-hugo"
     [params.about]
         enable  = true
         title   = "Het Pylades en Microsoft Field Service Event"
-        content = "Showcase toekomst van Field Service, A.I en IoT"
+        content = "Showcase toekomst van Field Service, A.I en IoTShowcase toekomst van Field Service, A.I en IoT Showcase toekomst van Field Service, A.I en IoT"
         image   = "images/about/Innovate-With-Proactive_767x367.png"
 
-        enable  = true
-        title   = "TEST2"
-        content = "Showcase toekomst van Field Service, A.I en IoT"
-        image   = "images/about/Innovate-With-Proactive_767x367.png"
 
     # Call to Action
     [params.cta]
