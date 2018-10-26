@@ -49,7 +49,7 @@ theme = "timer-hugo"
     # Call to Action
     [params.cta]
         enable  = true
-        title   = "Meld u aan om kans te maken op deelname aan dit event en de gratis Factsheet te ontvangen"
+        title   = "Meld u aan om kans te maken op deelname en ontvang de gratis Factsheet"
         content = "Aanmelden"
         btnText = "Aanmelden"
         btnURL  = "/contact"
