@@ -1,22 +1,22 @@
 enable  : true
 title   : Waarom u dit event niet wil missen
 subtitle: >
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed, <br> quasi dolores numquam dolor vero ex, tempora commodi      repellendus quod laborum.
+  
 item    :
   - icon  : ion-ios-flask-outline
-    title : Selling Point 1
+    title : Showcase IoT enabled Microsoft Kantoor
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+      We geven u een prachtige rondleiding door het nieuwe hypermoderne kantoor van Microsoft
 
   - icon  : ion-ios-lightbulb-outline
-    title : Selling Point 2
+    title : Keynote van Insert_High_Roller_Here
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+      Een inspirerende keynote van een IoT expert
 
   - icon  : ion-ios-americanfootball-outline
-    title : Free updates
+    title : Luxe Executive Netwerk Lunch
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+      Netwerk met andere executives uit het veld en ontdek de mogelijkheden van Connected Field Service Software voor uw bedrijf
 
   - icon  : ion-ios-keypad-outline
     title : Solid Support
