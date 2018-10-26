@@ -40,6 +40,11 @@ theme = "timer-hugo"
         content = "Showcase toekomst van Field Service, A.I en IoT"
         image   = "images/about/Innovate-With-Proactive_767x367.png"
 
+        enable  = true
+        title   = "TEST2"
+        content = "Showcase toekomst van Field Service, A.I en IoT"
+        image   = "images/about/Innovate-With-Proactive_767x367.png"
+
     # Call to Action
     [params.cta]
         enable  = true
