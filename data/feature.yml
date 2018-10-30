@@ -4,29 +4,29 @@ subtitle: >
   
 item    :
   - icon  : ion-ios-flask-outline
-    title : Showcase IoT enabled Microsoft Kantoor
+    title : Microsoft IoT Showcase
     description : >
-      We geven u een prachtige rondleiding door het hypermoderne, IoT kantoor van Microsoft
+      Rondleiding en showcase van IoT toepassing Microsoft
 
   - icon  : ion-ios-lightbulb-outline
-    title : Keynote van een bekende spreker
+    title : Keynote spreker
     description : >
       Een inspirerende keynote van een bekende spreker
 
   - icon  : ion-ios-americanfootball-outline
-    title : Executive Netwerk Lunch
+    title : Executive Netwerklunch
     description : >
-      Netwerk met andere executives en ontdek de mogelijkheden van Field Service Software
+      Netwerk met andere executives in uw sector
 
   - icon  : ion-ios-keypad-outline
     title : Round Table Discussie
     description : >
-      Ga het gesprek aan met andere Technisch Dienstverleners tijdens de round table
+      Open Round Table Discussie over Dynamics 365 Field Service
 
   - icon  : ion-ios-barcode-outline
-    title : Pylades Vertical Suite voor Technisch Dienstverleners
+    title : Vertical Suite Technische Dienstverlening
     description : >
-      Showcase van de Pylades Vertical Suite voor Technisch Dienstverleners
+      Pylades Vertical Suite Software Demo
   
   - icon  : ion-ios-lightbulb-outline
     title : Presentatie Jan Brouwer van Microsoft
