@@ -1,34 +1,34 @@
 enable  : true
 title   : Waarom u dit event niet wil missen
-subtitle: >
+subtitle: Meld u vandaag nog aan en ontdek de mogelijkheden van Dynamics 365 in de cloud voor uw bedrijf en ontdek hoe Microsoft zélf gebruik maakt van IoT, A.I en Connected Field Service in het volledig gemoderniseerde hoofdkantoor te Schiphol...
   
 item    :
   - icon  : ion-ios-flask-outline
-    title : Microsoft Technology Center IoT Showcase
+    title : Microsoft Technology Center Rondleiding
     description : >
       Rondleiding door het nieuwe Microsoft Technology Center
 
   - icon  : ion-ios-lightbulb-outline
-    title : Keynote spreker
+    title : Keynote Connected Field Service
     description : >
-      Een inspirerende keynote van een bekende spreker
+      Een inspirerende keynote presentatie
 
   - icon  : ion-ios-americanfootball-outline
-    title : Executive Netwerklunch
+    title : Executive Netwerk Lunch
     description : >
-      Netwerk met andere executives in uw sector
+      Netwerk met andere executives uit de Technische Dienstverlening branche
 
   - icon  : ion-ios-keypad-outline
     title : Round Table Discussie
     description : >
-      Open Round Table Discussie
+      Open Round Table Discussie over Connected Field Service
 
   - icon  : ion-ios-barcode-outline
     title : Vertical Suite Technische Dienstverlening
     description : >
-      Pylades Vertical Suite Software Demo
+      Pylades Vertical Suite Demo
   
   - icon  : ion-ios-lightbulb-outline
     title : Microsoft Presentatie 
     description : >
-      Jan Brouwer
+    Presentatie van Microsoft over Connected Field Service
