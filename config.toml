@@ -16,9 +16,9 @@ theme = "timer-hugo"
     # Banner Section
     [params.banner]
         enable  = true
-        bgImage = "/images/background3.jpg"
-        heading = "Pylades Field Service Executive Event"
-        description = "Een inspirerend event voor toekomstgerichte, innovatieve Technisch Dienstverleners in het geheel vernieuwde, hypermoderne en IoT enabled Microsoft kantoor te Schiphol"
+        bgImage = "/images/background.jpg"
+        heading = " Eecutive Event Technische Dienstverlening"
+        description = "Een inspirerend event voor toekomstgerichte, innovatieve Technisch Dienstverleners in het geheel vernieuwde en IoT enabled Microsoft kantoor."
         btn     = true
         btnText = "AANMELDEN"
         btnURL  = "/contact"
@@ -29,7 +29,7 @@ theme = "timer-hugo"
         [[params.banner.flipText]]
             title   = "Educatief"
         [[params.banner.flipText]]
-            title   = "Exclusief"
+            title   = "Georganiseerd door Pylades en Microsoft"
 
 # Site Menus
 
@@ -37,7 +37,7 @@ theme = "timer-hugo"
     [params.about]
         enable  = true
         title   = "Executive Event voor Technische Dienstverleners"
-        content = "<p>De opzet van dit exclusieve event voor Technische Dienstverleners is gebaseerd op de principes voor een “executive round table”. Dit houdt in dat er maximaal 20 plaatsen beschikbaar zijn voor deelname.Ontdek de visie van Microsoft op uw branche en zie een live demo van de slimme oplossingen die u vandaag al kunt inzetten voor meer succes.Verder is er een groepsdiscussie met experts en collega's uit uw branche én u krijgt een rondleiding in het verrassende Technology Center van Microsoft.</p>"
+        content = "<p>De opzet van dit exclusieve event voor Technische Dienstverleners is gebaseerd op de principes van Pylades voor een “executive round table”. Dit houdt in dat er maximaal 20 plaatsen beschikbaar zijn voor deelname.Ontdek de visie van Microsoft op uw branche en zie een live demo van de slimme oplossingen die u vandaag al kunt inzetten voor meer succes.Verder is er een groepsdiscussie met experts en collega's uit uw branche én u krijgt een rondleiding in het verrassende Technology Center van Microsoft.</p>"
         image   = "/images/about/Innovate-With-Proactive_767x367.png"
         
  # Call to Action
