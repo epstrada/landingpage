@@ -36,7 +36,7 @@ theme = "timer-hugo"
  # Homepage About Section
     [params.about]
         enable  = true
-        title   = "Technische Dienstverlening Executive Event."
+        title   = "Executive Event voor Technische Dienstverleners"
         content = "<p>De opzet van dit exclusieve event voor Technische Dienstverleners is gebaseerd op de principes voor een “executive round table”. Dit houdt in dat er maximaal 20 plaatsen beschikbaar zijn voor deelname.</p> <br> Ontdek de visie van Microsoft op uw branche en zie een live demo van de slimme oplossingen die u vandaag al kunt inzetten voor meer succes.<br> Verder is er boeiende groepsdiscussie én u krijgt een rondleiding in het verrassend vernieuwde pand van Microsoft op Schiphol."
         image   = "/images/about/Innovate-With-Proactive_767x367.png"
         
