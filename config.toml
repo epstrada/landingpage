@@ -36,14 +36,14 @@ theme = "timer-hugo"
  # Homepage About Section
     [params.about]
         enable  = true
-        title   = "Pylades Connected Field Service Executive Event."
-        content = "De opzet van dit exclusieve event is gebaseerd op de principes voor een “executive round table”. Dit houdt in dat er maximaal 20 plaatsen beschikbaar zijn. U zult geïnspireerd worden door de visie van Microsoft op uw branche en wij zullen u live demonstreren welke slimme oplossingen u vandaag al kunt inzetten voor meer succes. Verder is er boeiende groepsdiscussie én u krijgt een rondleiding in het verrassend vernieuwde pand van Microsoft op Schiphol."
+        title   = "Technische Dienstverlening Executive Event."
+        content = "De opzet van dit exclusieve event is gebaseerd op de principes voor een “executive round table”. Dit houdt in dat er maximaal 20 plaatsen beschikbaar zijn. <br> U zult geïnspireerd worden door de visie van Microsoft op uw branche en wij zullen u live demonstreren welke slimme oplossingen u vandaag al kunt inzetten voor meer succes. Verder is er boeiende groepsdiscussie én u krijgt een rondleiding in het verrassend vernieuwde pand van Microsoft op Schiphol."
         image   = "/images/about/Innovate-With-Proactive_767x367.png"
         
  # Call to Action
     [params.cta]
         enable  = true
-        title   = "Meld u snel aan voor het event"
-        content = "En ontvang de factsheet Field Service gratis in uw inbox"
-        btnText = "Aanmelden"
+        title   = "Meld u aan voor het event"
+        content = "En ontvang de Pylades Factsheet Technische Dienstverlening gratis in uw inbox"
+        btnText = "Nu Aanmelden"
         btnURL  = "/contact"
