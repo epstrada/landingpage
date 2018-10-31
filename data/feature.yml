@@ -4,9 +4,9 @@ subtitle: >
   
 item    :
   - icon  : ion-ios-flask-outline
-    title : Microsoft IoT Showcase
+    title : Microsoft Technology Center IoT Showcase
     description : >
-      Rondleiding en showcase van IoT toepassing Microsoft
+      Rondleiding door het nieuwe Microsoft Technology Center
 
   - icon  : ion-ios-lightbulb-outline
     title : Keynote spreker
@@ -21,7 +21,7 @@ item    :
   - icon  : ion-ios-keypad-outline
     title : Round Table Discussie
     description : >
-      Open Round Table Discussie over Dynamics 365 Field Service
+      Open Round Table Discussie
 
   - icon  : ion-ios-barcode-outline
     title : Vertical Suite Technische Dienstverlening
@@ -29,6 +29,6 @@ item    :
       Pylades Vertical Suite Software Demo
   
   - icon  : ion-ios-lightbulb-outline
-    title : Presentatie Jan Brouwer van Microsoft
+    title : Microsoft Presentatie 
     description : >
-      Jan Brouwer van Microsoft licht toe hoe klanten succesvol worden met Dynamics 365 Field Service
+      Jan Brouwer
