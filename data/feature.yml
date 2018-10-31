@@ -1,32 +1,32 @@
 enable  : true
-title   : Niet missen!
+title   : Mis het niet en meld u vandaag aan!
 subtitle: >
-  Meld u vandaag nog aan en ontdek de mogelijkheden van Dynamics 365 in de cloud voor uw bedrijf <br> hoe Microsoft zélf gebruik maakt van IoT, A.I en Connected Field Service in het volledig gemoderniseerde hoofdkantoor te Schiphol...
+  Meld u vandaag nog aan en ontdek de mogelijkheden van Dynamics 365 in de cloud voor uw bedrijf <br> En zie hoe Microsoft zélf gebruik maakt van IoT, A.I en Connected Field Service in het volledig gemoderniseerde hoofdkantoor te Schiphol...
 item    :
   - icon  : ion-ios-flask-outline
-    title : Media heading
+    title : Rondleiding Microsoft Technology Center
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+      Showcase IoT bij Microsoft en hands-on ervaring van de mogelijkheden.
 
   - icon  : ion-ios-lightbulb-outline
-    title : Well documented.
+    title : Keynote Connected Field Service
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+      Keynote over de mogelijkheden van IoT en Connected Field Service.
 
   - icon  : ion-ios-americanfootball-outline
-    title : Free updates
+    title : Executive Netwerk Lunch
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+      Netwerk met andere executives uit de Technische Dienstverlening branche.
 
   - icon  : ion-ios-keypad-outline
-    title : Solid Support
+    title : Interactieve Round Table
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+      Ga in gesprek met experts en collega's uit de branche.
 
   - icon  : ion-ios-barcode-outline
-    title : Simple Installation
+    title : Vertical Suite Technische Dienstverlening
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+      Live Demo van de Pylades Vertical Suite voor Technische Dienstverlening.
   
   - icon  : ion-ios-lightbulb-outline
     title : Well documented.
