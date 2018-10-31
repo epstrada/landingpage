@@ -1,34 +1,34 @@
 enable  : true
-title   : Waarom u dit event niet wil missen
-subtitle : > 
-Meld u vandaag nog aan en ontdek de mogelijkheden van Dynamics 365 in de cloud voor uw bedrijf <br> hoe Microsoft zélf gebruik maakt van IoT, A.I en Connected Field Service in het volledig gemoderniseerde hoofdkantoor te Schiphol... 
+title   : Niet missen!
+subtitle: >
+  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed, <br> quasi dolores numquam dolor vero ex, tempora commodi      repellendus quod laborum.
 item    :
   - icon  : ion-ios-flask-outline
-    title : Microsoft Technology Center Rondleiding
+    title : Media heading
     description : >
-      Rondleiding door het nieuwe Microsoft Technology Center
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
 
   - icon  : ion-ios-lightbulb-outline
-    title : Keynote Connected Field Service
+    title : Well documented.
     description : >
-      Een inspirerende keynote presentatie
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
 
   - icon  : ion-ios-americanfootball-outline
-    title : Executive Netwerk Lunch
+    title : Free updates
     description : >
-      Netwerk met andere executives uit de Technische Dienstverlening branche
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
 
   - icon  : ion-ios-keypad-outline
-    title : Round Table Discussie
+    title : Solid Support
     description : >
-      Open Round Table Discussie over Connected Field Service
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
 
   - icon  : ion-ios-barcode-outline
-    title : Vertical Suite Technische Dienstverlening
+    title : Simple Installation
     description : >
-      Pylades Vertical Suite Demo
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
   
   - icon  : ion-ios-lightbulb-outline
-    title : Microsoft Presentatie 
-    description : > 
-    Microsoft over Connected Field Service
+    title : Well documented.
+    description : >
+      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
