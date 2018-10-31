@@ -16,8 +16,8 @@ theme = "timer-hugo"
     # Banner Section
     [params.banner]
         enable  = true
-        bgImage = "/images/background.jpg"
-        heading = " Eecutive Event Technische Dienstverlening"
+        bgImage = "/images/background2.jpg"
+        heading = " Executive Event Technische Dienstverlening"
         description = "Een inspirerend event voor toekomstgerichte, innovatieve Technisch Dienstverleners in het geheel vernieuwde en IoT enabled Microsoft kantoor."
         btn     = true
         btnText = "AANMELDEN"
