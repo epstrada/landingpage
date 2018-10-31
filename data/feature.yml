@@ -1,7 +1,7 @@
 enable  : true
 title   : Niet missen!
 subtitle: >
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed, <br> quasi dolores numquam dolor vero ex, tempora commodi      repellendus quod laborum.
+  Meld u vandaag nog aan en ontdek de mogelijkheden van Dynamics 365 in de cloud voor uw bedrijf <br> hoe Microsoft zélf gebruik maakt van IoT, A.I en Connected Field Service in het volledig gemoderniseerde hoofdkantoor te Schiphol...
 item    :
   - icon  : ion-ios-flask-outline
     title : Media heading
