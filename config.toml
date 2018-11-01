@@ -23,13 +23,13 @@ theme = "timer-hugo"
         btnText = "AANMELDEN"
         btnURL  = "/contact"
         [[params.banner.flipText]]
-            title   = "Inspirerend"
+            title   = "Industrie 2.0"
         [[params.banner.flipText]]
-            title   = "Interactief"
+            title   = "IoT Sensors"
         [[params.banner.flipText]]
-            title   = "Educatief"
+            title   = "Hololens"
         [[params.banner.flipText]]
-            title   = "Disruptief"
+            title   = "Voorspellend Onderhoud"
 
 # Site Menus
 
@@ -37,7 +37,7 @@ theme = "timer-hugo"
     [params.about]
         enable  = true
         title   = "Executive Event Technische Dienstverlening"
-        content = "<p>Voor dit exclusieve event voor Technische Dienstverleners zijn maximaal 20 plaatsen beschikbaar voor deelname. Ontdek de visie van Microsoft op uw branche en zie een live demo van de slimme oplossingen die u vandaag al kunt inzetten voor meer succes.Neem deel aan de round table met experts en collega's uit uw branche én neem deel aan een rondleiding in het hypermoderne Technology Center van Microsoft Nederland.</p>"
+        content = "<p>Voor dit exclusieve event voor Technische Dienstverleners zijn maximaal 20 plaatsen beschikbaar voor deelname. <br> Ontdek de visie van Microsoft op uw branche en zie een live demo van de slimme oplossingen die u vandaag al kunt inzetten voor meer succes.Neem deel aan de round table met experts en collega's uit uw branche én neem deel aan een rondleiding in het hypermoderne Technology Center van Microsoft Nederland.</p>"
         image   = "/images/about/Innovate-With-Proactive_767x367.png"
         
  # Call to Action
