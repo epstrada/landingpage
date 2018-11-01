@@ -18,7 +18,7 @@ theme = "timer-hugo"
         enable  = true
         bgImage = "/images/background2.jpg"
         heading = " Executive Event Technische Dienstverlening"
-        description = "Een inspirerend event voor toekomstgerichte, innovatieve Technisch Dienstverleners in het geheel vernieuwde en IoT enabled Microsoft kantoor."
+        description = "Een inspirerend event voor innovatieve Technisch Dienstverleners bij Microsoft"
         btn     = true
         btnText = "AANMELDEN"
         btnURL  = "/contact"
@@ -29,15 +29,15 @@ theme = "timer-hugo"
         [[params.banner.flipText]]
             title   = "Educatief"
         [[params.banner.flipText]]
-            title   = "Georganiseerd door Pylades en Microsoft"
+            title   = ""
 
 # Site Menus
 
  # Homepage About Section
     [params.about]
         enable  = true
-        title   = "Executive Event voor Technische Dienstverleners"
-        content = "<p>De opzet van dit exclusieve event voor Technische Dienstverleners is gebaseerd op de principes van Pylades voor een “executive round table”. Dit houdt in dat er maximaal 20 plaatsen beschikbaar zijn voor deelname.Ontdek de visie van Microsoft op uw branche en zie een live demo van de slimme oplossingen die u vandaag al kunt inzetten voor meer succes.Verder is er een groepsdiscussie met experts en collega's uit uw branche én u krijgt een rondleiding in het verrassende Technology Center van Microsoft.</p>"
+        title   = "Executive Event Technische Dienstverlening"
+        content = "<p>Voor dit exclusieve event voor Technische Dienstverleners zijn maximaal 20 plaatsen beschikbaar voor deelname. Ontdek de visie van Microsoft op uw branche en zie een live demo van de slimme oplossingen die u vandaag al kunt inzetten voor meer succes.Verder is er een groepsdiscussie met experts en collega's uit uw branche én u krijgt een rondleiding in het verrassende Technology Center van Microsoft.</p>"
         image   = "/images/about/Innovate-With-Proactive_767x367.png"
         
  # Call to Action
