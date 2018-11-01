@@ -38,7 +38,7 @@ theme = "timer-hugo"
         enable  = true
         title   = "Executive Event Technische Dienstverlening"
         content = "<p>Voor dit exclusieve event voor Technische Dienstverleners zijn maximaal 20 plaatsen beschikbaar voor deelname. <br> Ontdek de visie van Microsoft op uw branche en zie een live demo van de slimme oplossingen die u vandaag al kunt inzetten voor meer succes.Neem deel aan de round table met experts en collega's uit uw branche én neem deel aan een rondleiding in het hypermoderne Technology Center van Microsoft Nederland.</p>"
-        image   = "/images/about/Innovate-With-Proactive_767x367.png"
+        image   = "/images/about/msft.jpg"
         
  # Call to Action
     [params.cta]
