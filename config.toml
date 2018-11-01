@@ -18,7 +18,7 @@ theme = "timer-hugo"
         enable  = true
         bgImage = "/images/slider.jpg"
         heading = " Executive Event Technische Dienstverlening"
-        description = "Een inspirerend event voor innovatieve Technisch Dienstverleners bij Microsoft"
+        description = "Een inspirerend event gericht op innovatie en digitale transformatie in de Technische Dienstverlening"
         btn     = true
         btnText = "AANMELDEN"
         btnURL  = "/contact"
@@ -29,7 +29,7 @@ theme = "timer-hugo"
         [[params.banner.flipText]]
             title   = "Educatief"
         [[params.banner.flipText]]
-            title   = ""
+            title   = "Disruptief"
 
 # Site Menus
 
@@ -37,7 +37,7 @@ theme = "timer-hugo"
     [params.about]
         enable  = true
         title   = "Executive Event Technische Dienstverlening"
-        content = "<p>Voor dit exclusieve event voor Technische Dienstverleners zijn maximaal 20 plaatsen beschikbaar voor deelname. Ontdek de visie van Microsoft op uw branche en zie een live demo van de slimme oplossingen die u vandaag al kunt inzetten voor meer succes.Verder is er een groepsdiscussie met experts en collega's uit uw branche én u krijgt een rondleiding in het verrassende Technology Center van Microsoft.</p>"
+        content = "<p>Voor dit exclusieve event voor Technische Dienstverleners zijn maximaal 20 plaatsen beschikbaar voor deelname. Ontdek de visie van Microsoft op uw branche en zie een live demo van de slimme oplossingen die u vandaag al kunt inzetten voor meer succes.Neem deel aan de round table met experts en collega's uit uw branche én neem deel aan een rondleiding in het hypermoderne Technology Center van Microsoft Nederland.</p>"
         image   = "/images/about/Innovate-With-Proactive_767x367.png"
         
  # Call to Action
