@@ -10,7 +10,7 @@ theme = "timer-hugo"
 # Site Params
 [params]
     home = "/"
-    logo = "/images/logo.png"
+    logo = "/images/pylades-logo-new.png"
     dateFormat = "6 January 2006"
 
     # Banner Section
