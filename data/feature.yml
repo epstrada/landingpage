@@ -6,7 +6,7 @@ item    :
   - icon  : ion-ios-flask-outline
     title :  Technology Center Tour
     description : >
-      Showcase IoT bij Microsoft en hands-on ervaring van de mogelijkheden.
+      Showcase IoT & Technology Center bij Microsoft.
 
   - icon  : ion-ios-lightbulb-outline
     title : Keynote Connected Field Service
@@ -16,7 +16,7 @@ item    :
   - icon  : ion-ios-americanfootball-outline
     title : Executive Lunch
     description : >
-     Lunch & Netwerk met andere executives uit uw branche.
+     Lunch & Netwerk met andere executives.
 
   - icon  : ion-ios-keypad-outline
     title : Round Table
@@ -29,6 +29,6 @@ item    :
       Live Demo van de Pylades Vertical Suite voor Technische Dienstverlening.
   
   - icon  : ion-ios-lightbulb-outline
-    title : Well documented.
+    title : Microsoft Presentatie.
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+      Visie van Microsoft over de toekomst van Field Service.
