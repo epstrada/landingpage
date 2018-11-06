@@ -1,7 +1,7 @@
 enable  : true
 title   : Mis het niet en meld u vandaag aan!
 subtitle: >
-  Meld u vandaag nog aan en ontdek de mogelijkheden van Dynamics 365 in de cloud voor uw bedrijf.<br>Ontdek hoe Microsoft zélf gebruik maakt van IoT, A.I en Connected Field Service in het volledig gemoderniseerde hoofdkantoor te Schiphol...
+  Meld u vandaag aan en ontdek de de voordelen van Dynamics 365 Field Service.<br>Zie hoe Microsoft zélf gebruik maakt van IoT, A.I en Connected Field Service in het volledig gemoderniseerde hoofdkantoor te Schiphol...
 item    :
   - icon  : ion-ios-flask-outline
     title :  Technology Center Tour
@@ -24,11 +24,11 @@ item    :
       Ga in gesprek met experts en collega's uit uw branche.
 
   - icon  : ion-ios-barcode-outline
-    title : Vertical Suite Technische Dienstverlening
+    title : Vertical Suite Demo 
     description : >
       Live Demo van de Pylades Vertical Suite voor Technische Dienstverlening.
   
   - icon  : ion-ios-lightbulb-outline
-    title : Microsoft Presentatie.
+    title : Toekomst van Field Service
     description : >
       Visie van Microsoft over de toekomst van Field Service.
