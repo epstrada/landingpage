@@ -17,7 +17,7 @@ theme = "timer-hugo"
     [params.banner]
         enable  = true
         bgImage = "/images/slider.jpg"
-        heading = "Field Service Executive Event"
+        heading = "Field Service Executive Event 29/1/19"
         description = "Een inspirerend event gericht op digitale innovatie & transformatie in de Technische Dienstverlening"
         btn     = true
         btnText = "AANMELDEN"
