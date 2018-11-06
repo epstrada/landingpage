@@ -17,8 +17,8 @@ theme = "timer-hugo"
     [params.banner]
         enable  = true
         bgImage = "/images/slider.jpg"
-        heading = " Executive Event Technische Dienstverlening"
-        description = "Een inspirerend event gericht op innovatie en digitale transformatie in de Technische Dienstverlening"
+        heading = "Field Service Executive Event"
+        description = "Een inspirerend event gericht op digitale innovatie & transformatie in de Technische Dienstverlening"
         btn     = true
         btnText = "AANMELDEN"
         btnURL  = "/contact"
@@ -36,14 +36,14 @@ theme = "timer-hugo"
  # Homepage About Section
     [params.about]
         enable  = true
-        title   = "Executive Event Technische Dienstverlening"
+        title   = "Field Service Executive Event"
         content = "<p>Voor dit exclusieve event voor Technische Dienstverleners zijn maximaal 20 plaatsen beschikbaar voor deelname. <br> Ontdek de visie van Microsoft op uw branche en zie een live demo van de slimme oplossingen die u vandaag al kunt inzetten voor meer succes.Neem deel aan de round table met experts en collega's uit uw branche én neem deel aan een rondleiding in het hypermoderne Technology Center van Microsoft Nederland.</p>"
         image   = "/images/about/msft.png"
         
  # Call to Action
     [params.cta]
         enable  = true
-        title   = "Meld u aan voor het event"
+        title   = "Meld u aan voor het event op 29 januari 2019"
         content = "En ontvang de Pylades Factsheet Technische Dienstverlening gratis in uw inbox"
         btnText = "Nu Aanmelden"
         btnURL  = "/contact"
