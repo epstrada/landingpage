@@ -44,6 +44,6 @@ theme = "timer-hugo"
     [params.cta]
         enable  = true
         title   = "Meld u aan voor het event op dinsdag 29 januari 2019"
-        content = "En ontvang de Pylades Factsheet Technische Dienstverlening gratis in uw inbox"
+        content = "Beperkte plaatsen beschikbaar dus wees er snel bij!"
         btnText = "Nu Aanmelden"
         btnURL  = "/contact"
