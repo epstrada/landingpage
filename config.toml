@@ -16,7 +16,7 @@ theme = "timer-hugo"
     # Banner Section
     [params.banner]
         enable  = true
-        bgImage = "/images/slider.jpg"
+        bgImage = "/images/hololens-fieldservice-praktijk.jpg"
         heading = "Field Service Executive Summit"
         description = "Een inspirerend event gericht op digitale innovatie & transformatie in de Technische Dienstverlening: Dinsdag 29 januari 2019"
         btn     = true
