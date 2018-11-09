@@ -1,6 +1,6 @@
 baseURL = "https://fieldservice.digital"
 languageCode = "nl"
-title = "Pylades Connected Field Service Executive Event"
+title = "Pylades Connected Field Service Executive Summit"
 theme = "timer-hugo"
 
 # We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
@@ -17,13 +17,13 @@ theme = "timer-hugo"
     [params.banner]
         enable  = true
         bgImage = "/images/slider.jpg"
-        heading = "Field Service Executive Event"
+        heading = "Field Service Executive Summit"
         description = "Een inspirerend event gericht op digitale innovatie & transformatie in de Technische Dienstverlening: Dinsdag 29 januari 2019"
         btn     = true
         btnText = "AANMELDEN"
         btnURL  = "/contact"
         [[params.banner.flipText]]
-            title   = "Industrie 2.0"
+            title   = "Connected Field Service"
         [[params.banner.flipText]]
             title   = "IoT Sensors"
         [[params.banner.flipText]]
@@ -36,8 +36,8 @@ theme = "timer-hugo"
  # Homepage About Section
     [params.about]
         enable  = true
-        title   = "Field Service Executive Event"
-        content = "<p>Voor dit exclusieve event op dinsdag 29 januari 2019 zijn maximaal 20 plaatsen beschikbaar voor deelname, specifiek voor Technische Dienstverleners. <br> Ontdek de visie van Microsoft op uw branche en zie een live demo van de slimme IoT oplossingen die u vandaag al kunt inzetten voor meer succes.<br>Neem deel aan de round table met experts en collega's uit uw branche én neem deel aan een rondleiding in het hypermoderne Technology Center van Microsoft Nederland.</p>"
+        title   = "Field Service Executive Summit"
+        content = "<p>Voor dit exclusieve en kostenloze event op dinsdag 29 januari 2019 zijn maximaal 20 plaatsen beschikbaar voor deelname, specifiek voor Technische Dienstverleners. <br> Ontdek de visie van Microsoft op uw branche en zie een live demo van de slimme IoT oplossingen die u vandaag al kunt inzetten voor meer succes.<br>Neem deel aan de round table met experts en collega's uit uw branche én neem deel aan een rondleiding in het hypermoderne Technology Center van Microsoft Nederland.</p>"
         image   = "/images/about/msft.png"
         
  # Call to Action
