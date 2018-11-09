@@ -31,20 +31,12 @@ theme = "timer-hugo"
         [[params.banner.flipText]]
             title   = "Predictive A.I"
 
-# Site Menus
-
  # Homepage About Section
     [params.about]
         enable  = true
         title   = "Field Service Executive Summit"
         content = "<p>Voor dit exclusieve en kostenloze event op dinsdag 29 januari 2019 zijn maximaal 20 plaatsen beschikbaar voor deelname, specifiek voor Technische Dienstverleners. <br> Ontdek de visie van Microsoft op uw branche en zie een live demo van de slimme IoT oplossingen die u vandaag al kunt inzetten voor meer succes.<br>Neem deel aan de round table met experts en collega's uit uw branche én neem deel aan een rondleiding in het hypermoderne Technology Center van Microsoft Nederland.</p>"
         image   = "/images/about/msft.png"
-
-    [params.about]
-        enable  = true
-        title   = "Field Service Executive Summit"
-        content = "<p></p>"
-        image   = "/images/about/fieldservice.png"
         
  # Call to Action
     [params.cta]
