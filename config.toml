@@ -49,7 +49,7 @@ theme = "timer-hugo"
  # Call to Action
     [params.cta]
         enable  = true
-        title   = "Meld u aan voor dinsdag 28 januari 2019"
+        title   = "Meld u aan voor dinsdag 29 januari 2019"
         content = "Beperkte plaatsen beschikbaar"
         btnText = "Nu Aanmelden"
         btnURL  = "/contact"
