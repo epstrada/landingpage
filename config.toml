@@ -18,7 +18,7 @@ theme = "timer-hugo"
         enable  = true
         bgImage = "/images/hololens-fieldservice-praktijk.jpg"
         heading = "Field Service Executive Summit"
-        description = "Een inspirerend event gericht op digitale innovatie & transformatie in de sector Technische Dienstverlening: Dinsdag 29 januari 2019"
+        description = "Een inspirerend event gericht op digitale innovatie & transformatie in de sector Technische Dienstverlening: Donderdag 4 april 2019"
         btn     = true
         btnText = "AANMELDEN"
         btnURL  = "/contact"
@@ -49,7 +49,7 @@ theme = "timer-hugo"
  # Call to Action
     [params.cta]
         enable  = true
-        title   = "Meld u aan voor dinsdag 29 januari 2019"
+        title   = "Meld u aan voor donderdag 4 april 2019"
         content = "Beperkte plaatsen beschikbaar"
         btnText = "Nu Aanmelden"
         btnURL  = "/contact"
